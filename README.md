@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* This is my update to readme
+
 * Ruby version
 
 * System dependencies
